@@ -1,4 +1,4 @@
-# BattleNET [![NuGet](https://img.shields.io/nuget/v/BattleNET.svg)](https://www.nuget.org/packages/BattleNET/) #
+# BattleEyeRcon
 
 BattleEyeRcon is a C# (.NET 8.0) library and client for the BattlEye protocol.
 It is based on the BattleNET library from https://github.com/marceldev89/BattleNET
